@@ -100,4 +100,4 @@ See the public privacy policy at [numfn.app/privacy](https://numfn.app/privacy/)
 
 ## License
 
-This repository does not currently include a license file.
+NumFn is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE).
