@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Xcode user state and generated build output
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcresult
+*.moved-aside
+*.hmap
+*.xcarchive
+*.ipa
+*.app
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager and XcodeGen output
+.build/
+.swiftpm/
+NumFn.xcodeproj/
+
+# Local signing and developer-only configuration
+*.cer
+*.p12
+*.pem
+*.mobileprovision
+*.provisionprofile
+AuthKey_*.p8
+Local.xcconfig
+*.local.xcconfig
+Signing.xcconfig
